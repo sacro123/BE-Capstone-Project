@@ -75,7 +75,8 @@ This project is a RESTful API for an e-commerce platform built with Django and D
 
 ### Users
 
-- `POST /api/users/`: Register a new user
+- `POST /api/users/register/`: User registration
+- `POST /api/users/login/`: Login a user
 - `GET /api/users/profile/`: Get current user profile
 - `PUT /api/users/profile/`: Update user profile
 
