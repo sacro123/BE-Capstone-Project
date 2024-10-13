@@ -15,7 +15,7 @@ This project is a RESTful API for an e-commerce platform built with Django and D
 - Python
 - Django
 - Django Rest Framework
-- MySQL
+- SQLlite
 - JWT for authentication
 
 ## Setup and Installation
